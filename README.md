@@ -1,4 +1,4 @@
-# 👋 Hola, soy Pato-al-aparato
+# 👋 Hola, soy Dragos Vasilache
 
 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, actualmente cursando 2º curso.
 
