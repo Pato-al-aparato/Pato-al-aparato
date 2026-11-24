@@ -8,10 +8,10 @@ Estudiante de **2º de Desarrollo de Aplicaciones Multiplataforma (DAM)** y Téc
 
 <table width="100%">
 <tr>
-<td width="100" align="center" valign="middle"><img src="assets/flight-simulator.svg" width="72" alt=""></td>
+<td width="150" align="center" valign="middle"><img src="assets/flight-simulator.svg" width="124" alt=""></td>
 <td valign="top">
+<h2>Simulador de vuelo 2D — TFG</h2>
 <sub>01 / PRÓXIMAMENTE · PROYECTO FINAL DE DAM</sub>
-<h3>Simulador de vuelo 2D — TFG</h3>
 <p>Simulador de vuelo espacial que combinará físicas simplificadas, control manual y automático e instrumentación de vuelo en una interfaz gráfica.</p>
 <p><code>Java</code> <code>JavaFX</code> <code>CSS</code> <code>Simulación física</code></p>
 </td>
@@ -20,10 +20,10 @@ Estudiante de **2º de Desarrollo de Aplicaciones Multiplataforma (DAM)** y Téc
 
 <table width="100%">
 <tr>
-<td width="100" align="center" valign="middle"><img src="assets/portfolio.svg" width="72" alt=""></td>
+<td width="150" align="center" valign="middle"><img src="assets/portfolio.svg" width="124" alt=""></td>
 <td valign="top">
+<h2>Portfolio personal</h2>
 <sub>02 / EN DESARROLLO · PROYECTO PERSONAL</sub>
-<h3>Portfolio personal</h3>
 <p>Espacio web para presentar mis proyectos y conocimientos, con especial atención al diseño de interfaces, la identidad visual y la experiencia de usuario.</p>
 <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>UX/UI</code></p>
 </td>
@@ -32,10 +32,10 @@ Estudiante de **2º de Desarrollo de Aplicaciones Multiplataforma (DAM)** y Téc
 
 <table width="100%">
 <tr>
-<td width="100" align="center" valign="middle"><img src="assets/academic.svg" width="72" alt=""></td>
+<td width="150" align="center" valign="middle"><img src="assets/academic.svg" width="124" alt=""></td>
 <td valign="top">
+<h2><a href="https://github.com/Pato-al-aparato/2dam-repo">2º DAM — Repositorio académico</a></h2>
 <sub>03 / ACTIVO · FORMACIÓN ACADÉMICA</sub>
-<h3><a href="https://github.com/Pato-al-aparato/2dam-repo">2dam-repo</a></h3>
 <p>Repositorio de ejercicios, prácticas y proyectos de 2º DAM, organizados por módulos y temas.</p>
 <p><code>Java</code> <code>Kotlin</code> <code>Acceso a datos</code> <code>Concurrencia</code> <code>Android</code></p>
 <a href="https://github.com/Pato-al-aparato/2dam-repo">Ver repositorio →</a>
