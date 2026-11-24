@@ -38,7 +38,6 @@ Estudiante de **2º de Desarrollo de Aplicaciones Multiplataforma (DAM)** y Téc
 <sub>03 / ACTIVO · FORMACIÓN ACADÉMICA</sub>
 <p>Repositorio de ejercicios, prácticas y proyectos de 2º DAM, organizados por módulos y temas.</p>
 <p><code>Java</code> <code>Kotlin</code> <code>Acceso a datos</code> <code>Concurrencia</code> <code>Android</code></p>
-<a href="https://github.com/Pato-al-aparato/2dam-repo">Ver repositorio →</a>
 </td>
 </tr>
 </table>
