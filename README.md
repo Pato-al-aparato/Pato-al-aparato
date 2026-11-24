@@ -4,23 +4,44 @@
 
 Estudiante de **2º de Desarrollo de Aplicaciones Multiplataforma (DAM)** y Técnico en Sistemas Microinformáticos y Redes (SMR). Interesado en el desarrollo de software, el código limpio y el diseño UX/UI, con especial interés en la inteligencia artificial, la automatización y los sistemas basados en agentes.
 
-## Repositorios activos
+## Proyectos y repositorios destacados
 
-### [2dam-repo](https://github.com/Pato-al-aparato/2dam-repo)
+<table width="100%">
+<tr>
+<td width="100" align="center" valign="middle"><img src="assets/flight-simulator.svg" width="72" alt=""></td>
+<td valign="top">
+<sub>01 / PRÓXIMAMENTE · PROYECTO FINAL DE DAM</sub>
+<h3>Simulador de vuelo 2D — TFG</h3>
+<p>Simulador de vuelo espacial que combinará físicas simplificadas, control manual y automático e instrumentación de vuelo en una interfaz gráfica.</p>
+<p><code>Java</code> <code>JavaFX</code> <code>CSS</code> <code>Simulación física</code></p>
+</td>
+</tr>
+</table>
 
-**Activo · Formación académica**
+<table width="100%">
+<tr>
+<td width="100" align="center" valign="middle"><img src="assets/portfolio.svg" width="72" alt=""></td>
+<td valign="top">
+<sub>02 / EN DESARROLLO · PROYECTO PERSONAL</sub>
+<h3>Portfolio personal</h3>
+<p>Espacio web para presentar mis proyectos y conocimientos, con especial atención al diseño de interfaces, la identidad visual y la experiencia de usuario.</p>
+<p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>UX/UI</code></p>
+</td>
+</tr>
+</table>
 
-Repositorio que reúne mis ejercicios, prácticas y proyectos de 2º DAM, organizados por módulos y temas.
-
-`Java` `Kotlin` `Acceso a datos` `Concurrencia` `Android`
-
-### Simulador de vuelo 2D — TFG
-
-**Próximamente · Proyecto final de DAM**
-
-Simulador de vuelo espacial que combinará físicas simplificadas, control manual y automático y una interfaz gráfica inspirada en los instrumentos de vuelo.
-
-`Java` `JavaFX` `CSS` `Simulación física`
+<table width="100%">
+<tr>
+<td width="100" align="center" valign="middle"><img src="assets/academic.svg" width="72" alt=""></td>
+<td valign="top">
+<sub>03 / ACTIVO · FORMACIÓN ACADÉMICA</sub>
+<h3><a href="https://github.com/Pato-al-aparato/2dam-repo">2dam-repo</a></h3>
+<p>Repositorio de ejercicios, prácticas y proyectos de 2º DAM, organizados por módulos y temas.</p>
+<p><code>Java</code> <code>Kotlin</code> <code>Acceso a datos</code> <code>Concurrencia</code> <code>Android</code></p>
+<a href="https://github.com/Pato-al-aparato/2dam-repo">Ver repositorio →</a>
+</td>
+</tr>
+</table>
 
 ## Tecnologías y herramientas
 
