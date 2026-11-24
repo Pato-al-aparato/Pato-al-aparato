@@ -1,4 +1,4 @@
-![Dragos Vasilache — Desarrollo de aplicaciones multiplataforma. Disponible para prácticas.](assets/header.svg)
+![Dragos Vasilache — Desarrollo de aplicaciones multiplataforma. Disponible para prácticas.](assets/header.gif)
 
 ## Sobre mí
 
