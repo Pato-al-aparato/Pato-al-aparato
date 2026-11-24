@@ -1,47 +1,48 @@
-# 👋 Hola, soy Dragos Vasilache
+![Dragos Vasilache — Desarrollo de aplicaciones multiplataforma. En búsqueda de prácticas.](assets/header.svg)
 
-Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, actualmente cursando 2º curso.
+## Sobre mí
 
-Utilizo este perfil para documentar mi aprendizaje, prácticas y ejercicios relacionados con el desarrollo de software.
+Estudiante de 2º de Desarrollo de Aplicaciones Multiplataforma y Técnico en Sistemas Microinformáticos y Redes.
 
-## 💻 Tecnologías
+Interesado en el desarrollo de software, el código limpio y el diseño de experiencias digitales, con especial interés en la inteligencia artificial, la automatización y los sistemas basados en agentes.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+Actualmente busco prácticas profesionales donde aplicar mis conocimientos y seguir creciendo como desarrollador.
 
-## 📚 Actualmente
+## Stack tecnológico
 
-Durante 2º DAM estoy trabajando principalmente con:
+**Lenguajes de programación**
 
-- **Acceso a Datos**
-  - Sistema de ficheros
-  - Ficheros de caracteres y binarios
-  - Serialización de objetos
-  - Acceso aleatorio a ficheros
+![Java, Kotlin, JavaScript y SQL](assets/stack-1.svg)
 
-- **Programación de Servicios y Procesos**
-  - `ProcessBuilder`
-  - Procesos
-  - Hilos y concurrencia
+**Desarrollo e interfaces**
 
-- **Programación Multimedia y Dispositivos Móviles**
-  - Kotlin
-  - Android
+![JavaFX, Android, HTML5 y CSS3](assets/stack-2.svg)
 
-## 📂 Repositorio académico
+**Herramientas y entornos**
 
-### [2dam-repo](https://github.com/Pato-al-aparato/2dam-repo)
+![Git, GitHub, IntelliJ IDEA y Android Studio](assets/stack-3.svg)
 
-Repositorio donde organizo ejercicios, actividades y prácticas realizadas durante 2º DAM.
+## Proyectos destacados
 
-El contenido está estructurado por módulos y temas, manteniendo una organización coherente de proyectos y paquetes.
+<table>
+<tr>
+<td width="80"><img src="assets/flight-simulator.svg" width="64" alt="Cohete"></td>
+<td><strong>Simulador de vuelo 2D</strong><br><em>Proyecto final de DAM · En desarrollo</em><br><br>Simulador de vuelo espacial que plantea físicas simplificadas, sistemas de control manual y automático y una interfaz gráfica inspirada en los instrumentos de vuelo.<br><br><code>Java</code> <code>JavaFX</code> <code>CSS</code> <code>Simulación</code></td>
+</tr>
+<tr>
+<td width="80"><img src="assets/portfolio.svg" width="64" alt="Ventana de aplicación"></td>
+<td><strong>Portfolio personal</strong><br><em>Desarrollo web · En desarrollo</em><br><br>Espacio personal dedicado a presentar mis proyectos, conocimientos e identidad como desarrollador, con especial atención al diseño y la experiencia de usuario.<br><br><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>UX/UI</code></td>
+</tr>
+<tr>
+<td width="80"><img src="assets/academic.svg" width="64" alt="Carpeta de código"></td>
+<td><strong>Repositorio académico — 2º DAM</strong><br><em>Formación · Aprendizaje continuo</em><br><br>Recopilación organizada de ejercicios, prácticas y proyectos realizados durante mi formación en desarrollo de aplicaciones multiplataforma.<br><br><code>Java</code> <code>Kotlin</code> <code>Acceso a datos</code> <code>Concurrencia</code><br><br><a href="https://github.com/Pato-al-aparato/2dam-repo">Ver repositorio</a></td>
+</tr>
+</table>
 
----
+## Áreas de interés
 
-### 🌱 En aprendizaje continuo
+| Desarrollo de software | Diseño UX/UI |
+| :--- | :--- |
+| Inteligencia artificial | Automatización y agentes |
 
-Actualmente sigo ampliando mis conocimientos en Java, Kotlin, desarrollo de aplicaciones, acceso a datos y programación concurrente.
+![Aprender. Diseñar. Construir.](assets/footer.svg)
