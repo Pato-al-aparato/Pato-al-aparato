@@ -1,4 +1,4 @@
-![Dragos Vasilache — Software Developer · DAM · SMR. Disponible para prácticas.](assets/header.svg)
+![Dragos Vasilache — Software Developer · DAM · SMR. Disponible para prácticas.](assets/header-profile-v2.svg)
 
 ## Sobre mí
 
@@ -46,15 +46,15 @@ Estudiante de **2.º de Desarrollo de Aplicaciones Multiplataforma (DAM)** y té
 
 **Lenguajes**
 
-![Java, Kotlin, JavaScript y SQL](assets/stack-1.svg)
+![Java, Kotlin, JavaScript y SQL](assets/stack-languages-v2.svg)
 
 **Tecnologías**
 
-![JavaFX, Android, HTML y CSS](assets/stack-2.svg)
+![JavaFX, Android, HTML y CSS](assets/stack-technologies-v2.svg)
 
 **Herramientas**
 
-![Git, GitHub, IntelliJ IDEA y Android Studio](assets/stack-3.svg)
+![Git, GitHub, IntelliJ IDEA y Android Studio](assets/stack-tools-v2.svg)
 
 ## Actualmente
 
