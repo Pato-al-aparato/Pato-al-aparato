@@ -2,7 +2,7 @@
 
 ## Sobre mí
 
-Estudiante de **2.º de Desarrollo de Aplicaciones Multiplataforma (DAM)** y técnico en **Sistemas Microinformáticos y Redes (SMR)**. Me interesa construir software claro, mantenible y cuidado también desde la experiencia de usuario. Trabajo principalmente con Java y Android, y me interesa especialmente explorar la automatización y las posibilidades de la inteligencia artificial aplicada al desarrollo.
+Estudiante de **2.º de DAM** y técnico en **SMR**. Me gusta construir software útil, bien pensado y con una interfaz cuidada. Busco prácticas donde seguir aprendiendo, aportar y convertir ideas en proyectos reales.
 
 ## Proyectos destacados
 
@@ -61,4 +61,4 @@ Estudiante de **2.º de Desarrollo de Aplicaciones Multiplataforma (DAM)** y té
 
 ## Actualmente
 
-Definiendo la arquitectura inicial y el modelo físico del **[simulador espacial 2D](https://github.com/Pato-al-aparato/flight-simulator-2d)**, empezando por gravedad y movimiento. En paralelo, continúo desarrollando mi **[portfolio personal](https://github.com/Pato-al-aparato/portfolio)** y profundizando en Android y automatización aplicada al desarrollo.
+Desarrollando mi **[proyecto final de DAM](https://github.com/Pato-al-aparato/flight-simulator-2d)**, un simulador espacial 2D con Java y JavaFX. Al mismo tiempo, estoy aprendiendo sobre **inteligencia artificial, agentes y automatización**, especialmente cómo aplicarlos a problemas y flujos de trabajo reales.
