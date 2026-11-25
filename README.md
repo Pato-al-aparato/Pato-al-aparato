@@ -2,15 +2,15 @@
 
 ## Sobre mí
 
-Estudiante de **2.º de Desarrollo de Aplicaciones Multiplataforma (DAM)** y técnico en **Sistemas Microinformáticos y Redes (SMR)**. Me interesa desarrollar software claro, mantenible y bien diseñado, combinando programación, UX/UI y automatización. Actualmente estoy profundizando en Java, Android e inteligencia artificial aplicada, incluidos los sistemas basados en agentes.
+Estudiante de **2.º de Desarrollo de Aplicaciones Multiplataforma (DAM)** y técnico en **Sistemas Microinformáticos y Redes (SMR)**. Me interesa construir software claro, mantenible y cuidado también desde la experiencia de usuario. Trabajo principalmente con Java y Android, y me interesa especialmente explorar la automatización y las posibilidades de la inteligencia artificial aplicada al desarrollo.
 
 ## Proyectos destacados
 
 <table width="100%">
 <tr>
-<td width="72" align="center" valign="middle"><a href="https://github.com/Pato-al-aparato/flight-simulator-2d"><img src="assets/flight-simulator.svg" width="48" height="48" alt="Simulador espacial 2D"></a></td>
+<td width="72" align="center" valign="middle"><img src="assets/flight-simulator.svg" width="48" height="48" alt="Simulador espacial 2D"></td>
 <td valign="top">
-<h3><a href="https://github.com/Pato-al-aparato/flight-simulator-2d">Simulador espacial 2D — TFG</a></h3>
+<h3><a href="https://github.com/Pato-al-aparato/flight-simulator-2d">Simulador espacial 2D — Proyecto final DAM</a></h3>
 <sub>EN DESARROLLO · PROYECTO FINAL DE DAM</sub>
 <p>Proyecto de simulación espacial en 2D con Java y JavaFX, orientado a combinar un modelo físico simplificado, control manual y automático e instrumentación visual de vuelo.</p>
 <p><img src="assets/project-tags-tfg.svg" alt="Java · JavaFX · CSS · Simulación física"></p>
@@ -21,7 +21,7 @@ Estudiante de **2.º de Desarrollo de Aplicaciones Multiplataforma (DAM)** y té
 
 <table width="100%">
 <tr>
-<td width="72" align="center" valign="middle"><a href="https://github.com/Pato-al-aparato/portfolio"><img src="assets/portfolio.svg" width="48" height="48" alt="Portfolio personal"></a></td>
+<td width="72" align="center" valign="middle"><img src="assets/portfolio.svg" width="48" height="48" alt="Portfolio personal"></td>
 <td valign="top">
 <h3><a href="https://github.com/Pato-al-aparato/portfolio">Portfolio personal</a></h3>
 <sub>EN DESARROLLO · PROYECTO PERSONAL</sub>
@@ -34,7 +34,7 @@ Estudiante de **2.º de Desarrollo de Aplicaciones Multiplataforma (DAM)** y té
 
 <table width="100%">
 <tr>
-<td width="72" align="center" valign="middle"><a href="https://github.com/Pato-al-aparato/2dam-repo"><img src="assets/academic.svg" width="48" height="48" alt="Repositorio académico de 2.º DAM"></a></td>
+<td width="72" align="center" valign="middle"><img src="assets/academic.svg" width="48" height="48" alt="Repositorio académico de 2.º DAM"></td>
 <td valign="top">
 <h3><a href="https://github.com/Pato-al-aparato/2dam-repo">2.º DAM — Repositorio académico</a></h3>
 <sub>ACTIVO · FORMACIÓN ACADÉMICA</sub>
@@ -61,4 +61,4 @@ Estudiante de **2.º de Desarrollo de Aplicaciones Multiplataforma (DAM)** y té
 
 ## Actualmente
 
-Desarrollando el **[simulador espacial 2D](https://github.com/Pato-al-aparato/flight-simulator-2d)** como proyecto final de DAM y refinando mi **[portfolio personal](https://github.com/Pato-al-aparato/portfolio)**. También continúo profundizando en Android, acceso a datos y automatización aplicada al desarrollo.
+Definiendo la arquitectura inicial y el modelo físico del **[simulador espacial 2D](https://github.com/Pato-al-aparato/flight-simulator-2d)**, empezando por gravedad y movimiento. En paralelo, continúo desarrollando mi **[portfolio personal](https://github.com/Pato-al-aparato/portfolio)** y profundizando en Android y automatización aplicada al desarrollo.
