@@ -2,7 +2,7 @@
 
 ## Sobre mí
 
-Estudiante de **2.º de DAM** y técnico en **SMR**. Me gusta construir software útil, bien pensado y con una interfaz cuidada. Busco prácticas donde seguir aprendiendo, aportar y convertir ideas en proyectos reales.
+Estudiante de **2.º de DAM** y técnico en **SMR**. Me interesa convertir ideas en software útil, bien pensado y con una interfaz cuidada. Busco prácticas donde seguir aprendiendo, aportar y trabajar en proyectos reales.
 
 ## Proyectos destacados
 
@@ -10,11 +10,15 @@ Estudiante de **2.º de DAM** y técnico en **SMR**. Me gusta construir software
 <tr>
 <td width="72" align="center" valign="middle"><img src="assets/flight-simulator.svg" width="48" height="48" alt="Simulador espacial 2D"></td>
 <td valign="top">
-<h3><a href="https://github.com/Pato-al-aparato/flight-simulator-2d">Simulador espacial 2D — Proyecto final DAM</a></h3>
-<sub>EN DESARROLLO · PROYECTO FINAL DE DAM</sub>
+<h3><a href="https://github.com/Pato-al-aparato/flight-simulator-2d">Simulador espacial 2D</a></h3>
+<sub>PROYECTO FINAL DAM · EN DESARROLLO</sub>
 <p>Proyecto de simulación espacial en 2D con Java y JavaFX, orientado a combinar un modelo físico simplificado, control manual y automático e instrumentación visual de vuelo.</p>
 <p><img src="assets/project-tags-tfg.svg" alt="Java · JavaFX · CSS · Simulación física"></p>
-<p><a href="https://github.com/Pato-al-aparato/flight-simulator-2d"><img src="assets/action-repository-v1.svg" alt="Repositorio"></a></p>
+<p>
+<a href="https://github.com/Pato-al-aparato/flight-simulator-2d"><img src="assets/action-repository-v1.svg" alt="Repositorio"></a>
+&nbsp;
+<a href="https://github.com/Pato-al-aparato/flight-simulator-2d/tree/main/docs"><img src="assets/action-documentation-v1.svg" alt="Documentación"></a>
+</p>
 </td>
 </tr>
 </table>
@@ -39,7 +43,7 @@ Estudiante de **2.º de DAM** y técnico en **SMR**. Me gusta construir software
 <h3><a href="https://github.com/Pato-al-aparato/2dam-repo">2.º DAM — Repositorio académico</a></h3>
 <sub>ACTIVO · FORMACIÓN ACADÉMICA</sub>
 <p>Repositorio académico de ejercicios, prácticas y proyectos de 2.º de DAM, organizado por módulos y temas como registro de aprendizaje y evolución técnica.</p>
-<p><img src="assets/project-tags-academico.svg" alt="Java · Kotlin · Acceso a datos · Concurrencia · Android"></p>
+<p><img src="assets/project-tags-academico-v2.svg" alt="Java · Kotlin · Acceso a datos · Android"></p>
 <p><a href="https://github.com/Pato-al-aparato/2dam-repo"><img src="assets/action-repository-v1.svg" alt="Repositorio"></a></p>
 </td>
 </tr>
@@ -61,4 +65,4 @@ Estudiante de **2.º de DAM** y técnico en **SMR**. Me gusta construir software
 
 ## Actualmente
 
-Desarrollando mi **[proyecto final de DAM](https://github.com/Pato-al-aparato/flight-simulator-2d)**, un simulador espacial 2D con Java y JavaFX. Al mismo tiempo, estoy aprendiendo sobre **inteligencia artificial, agentes y automatización**, especialmente cómo aplicarlos a problemas y flujos de trabajo reales.
+Desarrollando mi **[proyecto final de DAM](https://github.com/Pato-al-aparato/flight-simulator-2d)**, un simulador espacial 2D con Java y JavaFX. Al mismo tiempo, estoy aprendiendo sobre **inteligencia artificial, agentes y automatización**, explorando su aplicación en la automatización de tareas y flujos de desarrollo.
