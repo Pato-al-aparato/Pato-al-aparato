@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="154" height="30" viewBox="0 0 154 30" role="img" aria-label="Repositorio">
+  <rect x="1" y="1" width="152" height="28" rx="5" fill="#17160e" stroke="#665137"/>
+  <g fill="none" stroke="#e9ad54" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M14 10h5l2 2h7v9H14z"/>
+    <path d="M116 15h12m-4-4 4 4-4 4"/>
+  </g>
+  <text x="38" y="19.2" fill="#e9ad54" font-size="11.5" font-weight="500" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, monospace">REPOSITORIO</text>
+</svg>
